@@ -9,5 +9,4 @@ public class nastya {
 		// TODO Auto-generated method stub
 
 	}
-
 }
