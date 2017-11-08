@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .metadata/*
 .metadata/
 *.snap
@@ -5,3 +6,9 @@
 *.snap
 *.resources
 .metadata/*
+=======
+
+*.index
+
+.metadata/*
+>>>>>>> b52f0e731dc633f40b40841d522d6612a380ec6f
