@@ -1,25 +1,2 @@
-<<<<<<< HEAD
 .metadata/*
 .metadata/
-*.snap
-*.snap
-*.snap
-*.resources
-.metadata/*
-=======
-
-*.index
-
-.metadata/*
-<<<<<<< HEAD
->>>>>>> b52f0e731dc633f40b40841d522d6612a380ec6f
-=======
-.metadata/
-.metadata/*
-.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
-.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
-.metadata/.plugins/org.eclipse.core.resources/.snap
-.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps
-hello world/.metadata/.lock
-hello world/.metadata/.mylyn/.taskListIndex/segments.gen
->>>>>>> 3cc9829c813e258eba29d13ec85315943e862664
