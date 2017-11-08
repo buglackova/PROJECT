@@ -2,3 +2,11 @@
 *.index
 
 .metadata/*
+.metadata/
+.metadata/*
+.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+.metadata/.plugins/org.eclipse.core.resources/.snap
+.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps
+hello world/.metadata/.lock
+hello world/.metadata/.mylyn/.taskListIndex/segments.gen
