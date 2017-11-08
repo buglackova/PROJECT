@@ -1,12 +1,4 @@
 
+.metadata/.lock
+.metadata/.mylyn/.taskListIndex/segments_1
 *.zip
-*.zip
-*.zip
-*.index
-.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps
-.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt
-.metadata/.plugins/org.eclipse.team.cvs.core/.running
-.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml
-*.prefs
-*.prefs
-.metadata/*
