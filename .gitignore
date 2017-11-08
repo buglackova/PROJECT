@@ -3,6 +3,7 @@
 
 .metadata/*
 <<<<<<< HEAD
+<<<<<<< HEAD
 .metadata/
 *.snap
 *.snap
@@ -10,6 +11,9 @@
 *.resources
 .metadata/*
 =======
+=======
+.metadata/
+>>>>>>> 3cc9829c813e258eba29d13ec85315943e862664
 .metadata/*
 .metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
 .metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
