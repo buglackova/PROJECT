@@ -14,7 +14,7 @@ public class nastya {
 					.println("\n0-exit; 1-add circle; 2-add sqare; 3-add triangle; 4-show all figures; 5-change figure: ; 6-delete last figure");
 			k = in.nextInt();
 
-			switch (k) {
+			switch (k) { 
 			case 1: {
 				arra[n] = new Circle();
 				arra[n].input();
